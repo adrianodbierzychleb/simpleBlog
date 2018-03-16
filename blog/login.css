@@ -1,0 +1,35 @@
+body{
+  background-color: #6d6c64;
+  color: #000305;
+  font-size: 87.5%;
+  font-family: Arial, 'Lucida Sans Unicode';
+  line-height: 1.5;
+  text-align: left;
+}
+
+.body{
+  margin: 0 auto;
+  width: 70%;
+  clear: both;
+}
+
+
+.maincontent{
+  line-height: 25px;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  width: 70%;
+  float: left;
+}
+
+.topcontent{
+  background-color: #c1c1c1;
+  color: #c90404;
+  border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
+  padding: 3% 5%;
+  margin-top: 2px;
+  margin-right: 2px;
+}
